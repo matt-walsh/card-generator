@@ -1,0 +1,11 @@
+{
+  "name": "card-maker",
+  "version": "0.0.1",
+  "description": "Accesses the dnd5e api (http://www.dnd5eapi.com) to create data for RPG cards (http://crobi.github.io/rpg-cards)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt W",
+  "license": "ISC"
+}
